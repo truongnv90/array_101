@@ -1,8 +1,4 @@
 class DVD:
-    # name = ""
-    # release_year = 0
-    # director = ""
-
     def __init__(self, name, release_year, director):
         self.name = name
         self.release_year = release_year
