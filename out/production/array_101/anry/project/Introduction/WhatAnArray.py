@@ -1,8 +1,4 @@
 class DVD:
-    # name = ""
-    # release_year = 0
-    # director = ""
-
     def __init__(self, name, release_year, director):
         self.name = name
         self.release_year = release_year
@@ -38,3 +34,12 @@ if __name__ == '__main__':
     print(lst_dvd_collections[7])
     print(lst_dvd_collections[10])
     print(lst_dvd_collections[3])
+
+    # write item into array with a loop
+    lst_square_number = [0] * 10
+    for i in range(10):
+        lst_square_number[i] = (i + 1) * (i + 1)
+
+    # read item from array with a loop
+    for i in range(10):
+        print(lst_square_number[i])
