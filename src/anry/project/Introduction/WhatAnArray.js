@@ -2,7 +2,7 @@ function DVD(name, releaseYear, director) {
     this.name = name;
     this.releaseYear = releaseYear;
     this.director = director;
-};
+}
 
 DVD.prototype.toString = function dvdToString() {
     return `${this.name}, director by ${this.director} , release in ${this.releaseYear}`
@@ -33,7 +33,7 @@ console.log(dvdCollections[3])
 // write item in to array with a loop
 const squareNumber = []
 for (let i = 0; i < 10; i++) {
-    squareNumber[i] = (i + 1) * (i + 1)
+    squareNumber[i] = (i + 1) * (i + 1);
 }
 
 // read item from array with a loop
