@@ -1,4 +1,4 @@
-package anry.project.Introduction;
+package anry.project.Chap01_Introduction;
 
 public class WhatAnArray {
   public static class DVD {

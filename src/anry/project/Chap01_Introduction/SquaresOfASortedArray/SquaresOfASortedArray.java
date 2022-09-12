@@ -1,4 +1,4 @@
-package anry.project.Introduction.SquaresOfASortedArray;
+package anry.project.Chap01_Introduction.SquaresOfASortedArray;
 
 import java.util.Arrays;
 

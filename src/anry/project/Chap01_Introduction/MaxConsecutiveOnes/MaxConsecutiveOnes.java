@@ -1,4 +1,4 @@
-package anry.project.Introduction.MaxConsecutiveOnes;
+package anry.project.Chap01_Introduction.MaxConsecutiveOnes;
 
 
 public class MaxConsecutiveOnes {

@@ -1,4 +1,4 @@
-package anry.project.Introduction.FindNumberswithEvenNumberofDigits;
+package anry.project.Chap01_Introduction.FindNumberswithEvenNumberofDigits;
 
 public class FindNumbersWithEvenNumberOfDigits {
   public static int[] arrayExp1 = new int[]{12,345,2,6,7896};
